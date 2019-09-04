@@ -1,0 +1,92 @@
+.Style_bannerHome__21SX1 {
+	object-fit: cover;
+	width: 100%;
+	height: 100%
+}
+.Style_gradientVideo__1k_r- {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), color-stop(rgba(0, 0, 0, .3)), color-stop(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1)));
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3), rgba(0, 0, 0, .1), rgba(0, 0, 0, .1));
+	background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3), rgba(0, 0, 0, .1), rgba(0, 0, 0, .1))
+}
+.Style_contentTop__1itzd {
+	flex-grow: 0;
+	max-width: 100%;
+	flex-basis: 100%;
+	justify-content: space-between;
+	align-items: center
+}
+.Style_pricingButton__2pIMs {
+	width: 35%;
+	padding: 13px 0;
+	position: absolute;
+	left: 32.5%;
+	bottom: 20%
+}
+.Style_pricingButton__2pIMs:hover {
+	color: #fff;
+	opacity: .9
+}
+.Style_videoWrap__3qHqM video {
+	object-fit: cover
+}
+.FeatureHome_lineSeparator__1z6r5 {
+	height: 1px;
+	width: 70px
+}
+.FooterStyle_lineSeparator__2eSCp {
+	border-bottom: 1px solid #d1d1d1
+}
+.FooterStyle_mapLink__1UQ2Z ul li {
+	margin-bottom: 2px
+}
+.FooterStyle_mapLink__1UQ2Z ul li a {
+	font-size: 14px;
+	color: #414141
+}
+.FooterStyle_mapLink__1UQ2Z ul li a:hover {
+	text-decoration: underline
+}
+.RisetSection_borderRightInformation__2jaP8 {
+	border-right: 1px solid #fff
+}
+.RisetSection_wrapItemInformation__soy1C {
+	height: 110px
+}
+.MerkSection_listMerk__2QU38 li {
+	margin-bottom: 5px
+}
+.MerkSection_listMerk__2QU38 li img {
+	width: 30px;
+	height: 30px
+}
+.NewsSection_itemNews__2WHM0 {
+	height: 180px;
+	background-size: cover;
+	border-radius: 8px
+}
+.NewsSection_itemNews__2WHM0 .NewsSection_titleNews__1jZqN {
+	background-color: rgba(0, 0, 0, .5);
+	bottom: 0;
+	left: 0;
+	height: 64px
+}
+.Home_buttonChat__1XXLn {
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	z-index: 100;
+	box-shadow: 1px 1px 3px 1px #ddd
+}
+.Home_faGradient__2J_Dl {
+	background: -webkit-gradient(linear, left top, left bottom, from(#f44), to(#bc0906));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent
+}
+/*# sourceMappingURL=6.3ca53ec3.chunk.css.map */
